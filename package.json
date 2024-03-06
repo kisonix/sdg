@@ -1,0 +1,11 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "A design template for shwedinger application",
+  "main": "index.html",
+  "author": "Kisonix",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
