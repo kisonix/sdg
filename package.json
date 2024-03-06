@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A design template for shwedinger application",
   "main": "index.html",
+  "scripts": {
+    "build" : "tailwindcss build -i src/style.css -o public/style.css"
+  },
   "author": "Kisonix",
   "license": "MIT",
   "dependencies": {
